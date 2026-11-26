@@ -1,0 +1,4 @@
+interface:
+  display_name: "制作带垫音伴奏"
+  short_description: "用 UVR 提取和声与垫唱，校准时间并混回伴奏，导出 WAV 和可编辑工程"
+  default_prompt: "使用 $make-backing-track，根据我提供的原曲和可选官方伴奏，生成保留垫音、尽量去除主唱的成品伴奏。"
